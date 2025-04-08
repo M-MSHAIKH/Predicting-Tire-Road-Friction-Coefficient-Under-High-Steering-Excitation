@@ -109,6 +109,10 @@ This concise summary highlights the key aspects of the GRU architecture and its 
 
 -    LSTM model, Exhibited overlapping predictions for different surfaces, particularly between dry and wet surfaces, and ice and ice sheet surfaces. This overlap makes surface classification more challenging with the LSTM model.
 
+## Software Requirement
+
+-   MATLAB 2024b 
+
 ## References:
 [1] Pacejka, Hans. Tire and vehicle dynamics. Elsevier, 2005.
 
